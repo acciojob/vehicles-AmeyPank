@@ -15,8 +15,8 @@ public class Car extends Vehicle {
         this.wheels = wheels;
         this.doors = doors;
         this.gears = gears;
-        this.isManual = isManual;
         this.seats = seats;
+        this.type = type;
         this.currentGear =1;
 
     }
